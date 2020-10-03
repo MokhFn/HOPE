@@ -1,7 +1,6 @@
-
 {
-  "name": "HopePool",
-  "description": "The pool that spreads hope",
-  "ticker": "HOPE",
+  "name": "EnergyPool",
+  "description": "The pool with the energy",
+  "ticker": "ENRGY",
   "homepage": ""
-  }
+}
